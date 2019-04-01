@@ -23,3 +23,5 @@ Modélisation d'une ville composé de pauvres (représentés avec un 0 ) et de r
 -	Comment crée et réalisé graphiquement la nouvelle ville avec les éléments de la vile de base ?
 
 voici pour commencer une ville de base composée de 0 et 1 qui sera modélisée grapghiquement ( les cases jaunes représentent les riches et les violets représentnt les pauvres )
+
+![0 et 1](/0_et_1.png)  <img src="/fleche.jpg" width="150"> ![violet et jaune](/violet_et_jaune.png)
