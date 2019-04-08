@@ -12,10 +12,10 @@ Modélisation d'une ville composée de pauvres (représentés avec un 0 ) et de 
 
 **_En quoi le milieu social et l'identité ethnique influencent la hausse de la criminalité ?_** <br/>
 
-  Pour répondre à cela nous allons observé l'évolution de la ville en trois états  avec le même paramètre de base et ainsi la même ville de base:<br/><br/>
+  Pour répondre à cela nous allons observer l'évolution de la ville en trois états  avec le même paramètre de base et ainsi la même ville de base:<br/><br/>
 	1.La ville avec les gangs. <br/>
 	2. Etat de la ville aprés déménagement : 1er regroupement de pauvres entres eux et de riches entre eux  <br/>
-	3.La ville  au bout de N génération : réiteration du phénoméne de regroupement qui met en évidence maintenant la formations de ghettos et de quartiers riches. <br/><br/>
+	3.La ville  au bout de N génération : réitération du phénomène de regroupement qui met en évidence maintenant la formations de ghettos et de quartiers riches. <br/><br/>
 	
 ### Objectifs :
 
