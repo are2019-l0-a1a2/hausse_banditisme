@@ -1,7 +1,7 @@
 import Image
 import os# hausse_banditisme
 
-Modélisation d'une ville composée de pauvres (représentés avec un 0 ) et de riches (représentés avec un 1) placés aléatoirement dans une matrice,nous souhaitons examiner à travers cette "ville" la réaction des habitants selon certains paramêtres sociaux qu'on leurs applique . (ici chaque case représentera un batiment de riches et de pauvres avec une couleur donnée)
+Modélisation d'une ville composée de pauvres (représentés avec un 0 ) et de riches (représentés avec un 1) placés aléatoirement dans une matrice,nous souhaitons examiner à travers cette "ville" la réaction des habitants selon certains paramètres sociaux qu'on leurs applique . (ici chaque case représentera un batiment de riches et de pauvres avec une couleur donnée)
 
 ## Cahier des charges
 
