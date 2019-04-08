@@ -1,7 +1,7 @@
 import Image
 import os# hausse_banditisme
 
-Modélisation d'une ville composée de pauvres (représentés avec un 0 ) et de riches (représentés avec un 1) placés aléatoirement dans une matrice,nous voudrons voir à travers cette "ville" comment les habitants réagissent selon certains paramêtres donnés.(ici chaque case représentera un batiment de riches et de pauvres avec une couleur donnée)
+Modélisation d'une ville composée de pauvres (représentés avec un 0 ) et de riches (représentés avec un 1) placés aléatoirement dans une matrice,nous souhaitons examiner à travers cette "ville" la réaction des habitants selon certains paramêtres sociaux qu'on leurs applique . (ici chaque case représentera un batiment de riches et de pauvres avec une couleur donnée)
 
 ## Cahier des charges
 
@@ -9,17 +9,22 @@ Modélisation d'une ville composée de pauvres (représentés avec un 0 ) et de 
 - SOULE Assimaou
 - DUMAS Urbain
 
+
 **_En quoi le milieu social et l'identité ethnique influencent la hausse de la criminalité ?_** <br/>
+
   Pour répondre à cela nous allons observé l'évolution de la ville en trois états  avec le même paramètre de base et ainsi la même ville de base:<br/>
+  
 	1.La ville avec les gangs. <br/>
 	2. Etat de la ville aprés déménagement : 1er regroupement de pauvres entres eux et de riches entre eux  <br/>
 	3.La ville  au bout de N génération : réiteration du phénoméne de regroupement qui met en évidence maintenant la formations de ghettos et de quartiers riches. <br/>
 	
 ### Objectifs :
+
 - Modélisation graphique des différents états de la ville.
 - Création paramètres permettant cette modélisation.
 
 #### Questions importantes à se poser sur le sujet:
+
 - Comment modéliser les différentes villes ?
 - Comment créer et réaliser graphiquement la nouvelle ville avec les éléments de la ville de base ?
 
