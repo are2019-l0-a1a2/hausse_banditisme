@@ -31,5 +31,5 @@ Voici , pour commencer une ville de base composée de 0 et 1 qui sera represent�
 
 ![0 et 1](/0_et_1.png)                                       ![violet et jaune](/violet_et_jaune.png)
 
-Vous pourrez voir comment s'est déroulé le projet durant le semestre avec le **[rapport](https://github.com/are2019-l0-a1a2/hausse_banditisme/blob/master/Rapport_final)**,mais les réponses par liens à nos questions à propos de la modélisation en regardant **[le programme](https://github.com/are2019-l0-a1a2/hausse_banditisme/blob/master/ARE_banditisme2.ipynb)** et aussi avec la présentation **[powerpoint](https://onedrive.live.com/view.aspx?resid=62CD72D900C68636!549&ithint=file%2cpptx&authkey=!Aj4cW7OsYsrp4_I)**.
+Vous pourrez voir comment s'est déroulé le projet durant le semestre avec le **[rapport](https://github.com/are2019-l0-a1a2/hausse_banditisme/blob/master/Rapport_final)**,mais les réponses par liens à nos questions à propos de la modélisation en regardant **[le programme](https://github.com/are2019-l0-a1a2/hausse_banditisme/blob/master/ARE_banditisme2.ipynb)** et aussi avec la présentation **[powerpoint](https://1drv.ms/f/s!AvNO0LFjwhRLmhwiRqeAklDv3ruZ)**.
  
